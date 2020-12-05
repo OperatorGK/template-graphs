@@ -1,0 +1,6 @@
+#ifndef TEMPLATE_GRAPHS_LIBRARY_H
+#define TEMPLATE_GRAPHS_LIBRARY_H
+
+void hello();
+
+#endif //TEMPLATE_GRAPHS_LIBRARY_H
