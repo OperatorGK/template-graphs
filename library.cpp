@@ -1,7 +1,11 @@
+//
+// Created by OperatorGK on 07.12.2020.
+//
+
 #include "library.h"
 
-#include <iostream>
+using namespace template_graphs;
 
-void hello() {
-    std::cout << "Hello, World!" << std::endl;
+void test() {
+
 }
